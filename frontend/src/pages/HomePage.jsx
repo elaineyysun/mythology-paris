@@ -40,7 +40,7 @@ export default function HomePage() {
   const [sort, setSort]         = useState('date-asc');
 
   useEffect(() => {
-    fetch('/api/artworks?theme=cupid-psyche')
+    fetch(`${import.meta.env.VITE_API_URL || ''}/api/artworks?theme=cupid-psyche`)
       .then(r => {
         if (!r.ok) throw new Error(`Server returned ${r.status}`);
         return r.json();
@@ -97,7 +97,7 @@ export default function HomePage() {
         <div className="bg-white rounded-xl p-8 shadow text-center max-w-md">
           <p className="text-red-500 font-semibold mb-2">Could not load artworks</p>
           <p className="text-stone-500 text-sm">{error}</p>
-          <p className="text-stone-400 text-xs mt-3">Make sure the backend is running on port 3001.</p>
+
         </div>
       </div>
     );

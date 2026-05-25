@@ -12,7 +12,7 @@ export default function DetailPage() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(`/api/artworks/${id}?theme=${themeSlug}`)
+    fetch(`${import.meta.env.VITE_API_URL || ''}/api/artworks/${id}?theme=${themeSlug}`)
       .then(r => {
         if (!r.ok) throw new Error(`Server returned ${r.status}`);
         return r.json();
