@@ -3,23 +3,46 @@ import { fetchArtworksForTheme, THEMES } from '../services/wikidata.js';
 import { loadJocondeArtworks, lookupCommonsImage } from '../services/joconde.js';
 import { fetchStory } from '../services/wikipedia.js';
 
+/** Lowercase + strip diacritics so "Psyché" and "PSYCHE" both become "psyche". */
+function normalizeText(s) {
+  return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+}
+
 /**
- * Deduplicate key: title + artist (first 20 chars) + canonical museum group.
- * Catches same artwork catalogued multiple times across Wikidata + Joconde.
- * Normalize hyphens/spaces so "Jean-Joseph" and "Jean Joseph" match.
+ * Deduplicate key: normalized title + canonical artist + canonical museum.
  *
- * Museum normalization: use museum.name (not wikidataUrl whose first 30 chars
- * are identical for every Wikidata entity, breaking cross-source dedup).
- * All Louvre sub-departments ("Département des sculptures du musée du Louvre",
- * "Département des peintures du musée du Louvre", "musée du Louvre", etc.)
- * are collapsed to "louvre" so Joconde and Wikidata entries for the same work
- * are recognised as duplicates. The sub-department name is preserved in the
- * stored data for display / research — only the key is normalised.
+ * Handles three systematic mismatches between Wikidata and Joconde:
+ *
+ * 1. Title accents — Wikidata uses proper French ("Psyché et l'Amour"),
+ *    Joconde CSV stores titles in uppercase ASCII ("PSYCHE ET L'AMOUR").
+ *    Fix: strip diacritics so both normalise to "psyche et l'amour".
+ *
+ * 2. Artist name order — Joconde uses "LAST Firstname" order while Wikidata
+ *    uses "Firstname Last". Fix: sort name tokens alphabetically so
+ *    "Canova Antonio" and "Antonio Canova" produce the same key.
+ *
+ * 3. Museum URL vs name — Wikidata sets museum.wikidataUrl (e.g.
+ *    http://www.wikidata.org/entity/Q3044772) whose first 30 chars are
+ *    identical for every entity, collapsing all Wikidata museums to the same
+ *    bucket. Fix: use museum.name instead, and normalise all Louvre
+ *    sub-departments ("Département des sculptures du musée du Louvre",
+ *    "musée du Louvre", etc.) to the canonical key "louvre".
+ *    The sub-department name is preserved in the stored data for display /
+ *    research — only the key is normalised.
  */
 function dedupKey(a) {
-  const title  = a.title.toLowerCase().trim();
-  const artist = a.artist.toLowerCase().replace(/[-\s]+/g, ' ').trim().slice(0, 20);
-  const rawMuseum = (a.museum?.name || '').toLowerCase().trim();
+  const title = normalizeText(a.title);
+  // Sort name tokens so "Canova Antonio" ≡ "Antonio Canova"
+  const artist = normalizeText(a.artist)
+    .replace(/[;,]+/g, ' ')        // flatten multi-artist / date separators
+    .replace(/\(.*?\)/g, ' ')      // remove parenthesised dates/nationalities
+    .replace(/[-\s]+/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .sort()
+    .slice(0, 4)                   // cap at 4 tokens for stability
+    .join(' ');
+  const rawMuseum = normalizeText(a.museum?.name || '');
   const museumKey = rawMuseum.includes('louvre') ? 'louvre' : rawMuseum.slice(0, 30);
   return `${title}|${artist}|${museumKey}`;
 }
