@@ -1,6 +1,26 @@
 import { useState, useEffect, useMemo } from 'react';
 import ArtworkCard from '../components/ArtworkCard.jsx';
 
+/**
+ * Derive a human-readable artwork type from description + materials fields.
+ * Handles both Joconde format ("tableau — peinture à l'huile;toile") and
+ * Wikidata format ("peinture de François Gérard", "sculpture d'Antonio Canova").
+ */
+function getArtworkType(artwork) {
+  const str = ((artwork.description || '') + ' ' + (artwork.materials || ''))
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
+  if (/\btableau\b|\bpeinture\b|\bpainting\b|\bhuile\b/.test(str))          return 'Peinture';
+  if (/\bsculpture\b|\bstatue\b|\bstatuette\b|\bgroupe\b|\bmaquette\b|\bmarbre\b|\bbronze\b/.test(str)) return 'Sculpture';
+  if (/\bdessin\b|\bdrawing\b|\bsanguine\b|\bcrayon\b|\bgraphite\b|\baquarelle\b|\bplume\b|\blavis\b/.test(str)) return 'Dessin';
+  if (/\bestampe\b|\bgravure\b|\blithographie\b/.test(str))                   return 'Estampe';
+  if (/\bphotographie\b|\bphotograph\b|\btirage\b/.test(str))                 return 'Photographie';
+  if (/\btapisserie\b/.test(str))                                               return 'Tapisserie';
+  if (/\bminiature\b/.test(str))                                                return 'Miniature';
+  return 'Autre';
+}
+
 const SORT_OPTIONS = [
   { value: 'date-asc',   label: 'Date ↑ (oldest first)' },
   { value: 'date-desc',  label: 'Date ↓ (newest first)' },
@@ -38,6 +58,7 @@ export default function HomePage() {
   const [dateFrom, setDateFrom] = useState('');
   const [dateTo, setDateTo]     = useState('');
   const [sort, setSort]         = useState('date-asc');
+  const [typeFilter, setTypeFilter] = useState('');
 
   useEffect(() => {
     fetch(`${import.meta.env.VITE_API_URL || ''}/api/artworks?theme=cupid-psyche`)
@@ -56,7 +77,18 @@ export default function HomePage() {
       });
   }, []);
 
-  // Unique museums for quick reference (not a dropdown, search handles location)
+  // Compute available artwork types sorted by count (recalculated when artworks load)
+  const artworkTypes = useMemo(() => {
+    const counts = {};
+    artworks.forEach(a => {
+      const t = getArtworkType(a);
+      counts[t] = (counts[t] || 0) + 1;
+    });
+    return Object.entries(counts)
+      .sort((a, b) => b[1] - a[1])
+      .map(([type, count]) => ({ type, count }));
+  }, [artworks]);
+
   const filtered = useMemo(() => {
     const q = query.toLowerCase().trim();
     const from = dateFrom ? parseInt(dateFrom, 10) : null;
@@ -75,11 +107,13 @@ export default function HomePage() {
         if (from !== null && y < from) return false;
         if (to   !== null && y > to)   return false;
       }
+      // Artwork type
+      if (typeFilter && getArtworkType(a) !== typeFilter) return false;
       return true;
     });
 
     return sortArtworks(list, sort);
-  }, [artworks, query, dateFrom, dateTo, sort]);
+  }, [artworks, query, dateFrom, dateTo, sort, typeFilter]);
 
   if (loading) {
     return (
@@ -170,6 +204,23 @@ export default function HomePage() {
             />
           </div>
 
+          {/* Artwork type */}
+          <div className="w-44">
+            <label className="block text-xs text-stone-500 font-medium mb-1 uppercase tracking-wide">
+              Type d'œuvre
+            </label>
+            <select
+              value={typeFilter}
+              onChange={e => setTypeFilter(e.target.value)}
+              className="w-full border border-stone-200 rounded-lg px-3 py-2 text-sm text-stone-800 focus:outline-none focus:ring-2 focus:ring-amber-400 bg-white"
+            >
+              <option value="">Tous les types</option>
+              {artworkTypes.map(({ type, count }) => (
+                <option key={type} value={type}>{type} ({count})</option>
+              ))}
+            </select>
+          </div>
+
           {/* Sort */}
           <div className="w-52">
             <label className="block text-xs text-stone-500 font-medium mb-1 uppercase tracking-wide">
@@ -187,9 +238,9 @@ export default function HomePage() {
           </div>
 
           {/* Clear */}
-          {(query || dateFrom || dateTo) && (
+          {(query || dateFrom || dateTo || typeFilter) && (
             <button
-              onClick={() => { setQuery(''); setDateFrom(''); setDateTo(''); }}
+              onClick={() => { setQuery(''); setDateFrom(''); setDateTo(''); setTypeFilter(''); }}
               className="text-xs text-amber-600 hover:text-amber-800 underline pb-2"
             >
               Effacer les filtres
