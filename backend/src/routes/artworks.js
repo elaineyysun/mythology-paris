@@ -4,15 +4,24 @@ import { loadJocondeArtworks, lookupCommonsImage } from '../services/joconde.js'
 import { fetchStory } from '../services/wikipedia.js';
 
 /**
- * Deduplicate key: title + artist (first 20 chars) + museum code/name.
- * Catches same artwork catalogued multiple times (common in Joconde).
+ * Deduplicate key: title + artist (first 20 chars) + canonical museum group.
+ * Catches same artwork catalogued multiple times across Wikidata + Joconde.
  * Normalize hyphens/spaces so "Jean-Joseph" and "Jean Joseph" match.
+ *
+ * Museum normalization: use museum.name (not wikidataUrl whose first 30 chars
+ * are identical for every Wikidata entity, breaking cross-source dedup).
+ * All Louvre sub-departments ("Département des sculptures du musée du Louvre",
+ * "Département des peintures du musée du Louvre", "musée du Louvre", etc.)
+ * are collapsed to "louvre" so Joconde and Wikidata entries for the same work
+ * are recognised as duplicates. The sub-department name is preserved in the
+ * stored data for display / research — only the key is normalised.
  */
 function dedupKey(a) {
   const title  = a.title.toLowerCase().trim();
   const artist = a.artist.toLowerCase().replace(/[-\s]+/g, ' ').trim().slice(0, 20);
-  const museum = (a.museum.wikidataUrl || a.museum.name || '').toLowerCase().trim().slice(0, 30);
-  return `${title}|${artist}|${museum}`;
+  const rawMuseum = (a.museum?.name || '').toLowerCase().trim();
+  const museumKey = rawMuseum.includes('louvre') ? 'louvre' : rawMuseum.slice(0, 30);
+  return `${title}|${artist}|${museumKey}`;
 }
 
 /** Merge Wikidata + Joconde results, deduplicating by title + artist + museum. */
