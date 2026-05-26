@@ -219,15 +219,22 @@ const STRINGS = {
 
 // ─── Artwork type classifier (mirrors HomePage logic) ────────────────────────
 function getArtworkType(artwork) {
-  const str = ((artwork.description || '') + ' ' + (artwork.materials || ''))
-    .toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  if (/\btableau\b|\bpeinture\b|\bpainting\b|\bhuile\b/.test(str))           return 'Peinture';
-  if (/\bsculpture\b|\bstatue\b|\bstatuette\b|\bgroupe\b|\bmaquette\b|\bmarbre\b|\bbronze\b/.test(str)) return 'Sculpture';
-  if (/\bdessin\b|\bdrawing\b|\bsanguine\b|\bcrayon\b|\bgraphite\b|\baquarelle\b|\bplume\b|\blavis\b/.test(str)) return 'Dessin';
-  if (/\bestampe\b|\bgravure\b|\blithographie\b/.test(str))                    return 'Estampe';
-  if (/\bphotographie\b|\bphotograph\b|\btirage\b/.test(str))                  return 'Photographie';
-  if (/\btapisserie\b/.test(str))                                               return 'Tapisserie';
-  if (/\bminiature\b/.test(str))                                                return 'Miniature';
+  const norm = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const descMat = norm((artwork.description || '') + ' ' + (artwork.materials || ''));
+  // Primary check: description + materials
+  if (/\btableau\b|\bpeinture\b|\bpainting\b|\bhuile\b/.test(descMat))          return 'Peinture';
+  if (/\bsculpture\b|\bsculpte\b|\bstatue\b|\bstatuette\b|\bgroupe\b|\bmaquette\b|\bmarbre\b|\bbronze\b|\brelief\b|\bbuste\b/.test(descMat)) return 'Sculpture';
+  if (/\bdessin\b|\bdrawing\b|\bsanguine\b|\bcrayon\b|\bgraphite\b|\baquarelle\b|\bplume\b|\blavis\b/.test(descMat)) return 'Dessin';
+  if (/\bestampe\b|\bgravure\b|\blithographie\b/.test(descMat))                  return 'Estampe';
+  if (/\btapisserie\b/.test(descMat))                                             return 'Tapisserie';
+  if (/\bminiature\b/.test(descMat))                                              return 'Miniature';
+  // Fallback: check title when description/materials give no type
+  const title = norm(artwork.title || '');
+  if (/\btableau\b|\bpeinture\b|\bhuile\b/.test(title))                         return 'Peinture';
+  if (/\bsculpture\b|\bsculpte\b|\bstatue\b|\bgroupe\b|\bmarbre\b|\bbronze\b|\brelief\b|\bbuste\b|\bronde.bosse\b/.test(title)) return 'Sculpture';
+  if (/\bdessin\b|\bsanguine\b|\bcrayon\b|\baquarelle\b/.test(title))           return 'Dessin';
+  // Photographie only as last resort
+  if (/\bphotographie\b|\bphotograph\b|\btirage\b/.test(descMat))               return 'Photographie';
   return 'Autre';
 }
 

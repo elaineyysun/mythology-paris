@@ -31,7 +31,12 @@ function normalizeText(s) {
  *    research — only the key is normalised.
  */
 function dedupKey(a) {
-  const title = normalizeText(a.title);
+  // Strip punctuation from title so "Psyché, au jardin" ≡ "Psyché au jardin"
+  // and "AUSSI CONNU SOUS LE TITRE : 'PSYCHE'" ≡ "AUSSI CONNU SOUS LE TITRE PSYCHE"
+  const title = normalizeText(a.title)
+    .replace(/[,;:()'"`«»]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
   // Sort name tokens so "Canova Antonio" ≡ "Antonio Canova"
   const artist = normalizeText(a.artist)
     .replace(/[;,]+/g, ' ')        // flatten multi-artist / date separators
