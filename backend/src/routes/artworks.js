@@ -52,13 +52,33 @@ function dedupKey(a) {
   return `${title}|${artist}|${museumKey}`;
 }
 
+/**
+ * Title-only key for cross-source dedup.
+ * Wikidata and Joconde use different artist name conventions
+ * ("Polidoro da Caravaggio" vs "Polidoro (?) Caldara"), so for cross-source
+ * matching we fall back to title + museum only.
+ */
+function titleMuseumKey(a) {
+  const title = normalizeText(a.title)
+    .replace(/[,;:()'"`«»]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const rawMuseum = normalizeText(a.museum?.name || '');
+  const museumKey = rawMuseum.includes('louvre') ? 'louvre' : rawMuseum.slice(0, 30);
+  return `${title}|${museumKey}`;
+}
+
 /** Merge Wikidata + Joconde results, deduplicating by title + artist + museum. */
 function mergeArtworks(wikidataItems, jocondeItems) {
-  const seen = new Set(wikidataItems.map(dedupKey));
+  const seen          = new Set(wikidataItems.map(dedupKey));
+  // Secondary index: title+museum only, catches cross-source artist-name mismatches
+  const seenTitleMuseum = new Set(wikidataItems.map(titleMuseumKey));
   const novel = jocondeItems.filter(a => {
-    const k = dedupKey(a);
-    if (seen.has(k)) return false;
+    const k  = dedupKey(a);
+    const tm = titleMuseumKey(a);
+    if (seen.has(k) || seenTitleMuseum.has(tm)) return false;
     seen.add(k);
+    seenTitleMuseum.add(tm);
     return true;
   });
   return [...wikidataItems, ...novel];
