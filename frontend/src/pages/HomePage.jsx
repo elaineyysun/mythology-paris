@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
+import { Link } from 'react-router-dom';
 import ArtworkCard from '../components/ArtworkCard.jsx';
 
 /**
@@ -152,6 +153,12 @@ export default function HomePage() {
             Artworks depicting the myth of Cupid and Psyche held in Paris museums and galleries.
             Click any work to see where it is kept and read the story it depicts.
           </p>
+          <Link
+            to="/analysis"
+            className="inline-block mt-5 text-xs text-amber-400 hover:text-amber-300 border border-amber-800 hover:border-amber-500 px-4 py-2 rounded-full transition-colors"
+          >
+            Analyse historique →
+          </Link>
         </div>
       </header>
 
