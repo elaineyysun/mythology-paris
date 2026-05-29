@@ -3,6 +3,19 @@ import { fetchArtworksForTheme, THEMES } from '../services/wikidata.js';
 import { loadJocondeArtworks, lookupCommonsImage } from '../services/joconde.js';
 import { fetchStory } from '../services/wikipedia.js';
 
+/** Resolve missing images with concurrency limit to avoid overwhelming Commons. */
+async function resolveImages(artworks, concurrency = 5) {
+  const pending = artworks.filter(a => !a.imageUrl);
+  if (!pending.length) return;
+  // Process in batches
+  for (let i = 0; i < pending.length; i += concurrency) {
+    const batch = pending.slice(i, i + concurrency);
+    await Promise.all(batch.map(async a => {
+      a.imageUrl = await lookupCommonsImage(a.title);
+    }));
+  }
+}
+
 /** Lowercase + strip diacritics so "Psyché" and "PSYCHE" both become "psyche". */
 function normalizeText(s) {
   return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
@@ -99,6 +112,9 @@ router.get('/', async (req, res) => {
       Promise.resolve(loadJocondeArtworks(themeSlug)),
     ]);
     const artworks = mergeArtworks(wikidataArtworks, jocondeArtworks);
+
+    // Resolve missing images via Wikimedia Commons (concurrency-limited, disk-cached)
+    await resolveImages(artworks);
 
     console.log(`[artworks] ${wikidataArtworks.length} Wikidata + ${jocondeArtworks.length} Joconde (${artworks.length - wikidataArtworks.length} new) = ${artworks.length} total`);
     res.json({ theme, artworks });

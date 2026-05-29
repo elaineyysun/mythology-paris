@@ -148,8 +148,20 @@ function cleanDate(raw) {
 }
 
 // ─── Wikimedia Commons image lookup ──────────────────────────────────────────
-// In-process cache: title → imageUrl (or null if not found).
-const _commonsCache = new Map();
+// Disk-backed cache: persists across server restarts.
+import { readFileSync as _readSync, writeFileSync as _writeSync } from 'fs';
+const _COMMONS_CACHE_FILE = join(__dirname, '../../cache/commons-images.json');
+let _commonsCache;
+function _loadCommonsCache() {
+  if (_commonsCache) return _commonsCache;
+  try { _commonsCache = new Map(Object.entries(JSON.parse(_readSync(_COMMONS_CACHE_FILE, 'utf-8')))); }
+  catch { _commonsCache = new Map(); }
+  return _commonsCache;
+}
+function _saveCommonsCache() {
+  const obj = Object.fromEntries(_loadCommonsCache());
+  try { _writeSync(_COMMONS_CACHE_FILE, JSON.stringify(obj)); } catch { /* ignore */ }
+}
 
 /**
  * Search Wikimedia Commons for a free image matching the given artwork title.
@@ -157,8 +169,9 @@ const _commonsCache = new Map();
  * Results are cached in-process for the lifetime of the server.
  */
 export async function lookupCommonsImage(title) {
+  const cache = _loadCommonsCache();
   const key = title.toLowerCase().trim();
-  if (_commonsCache.has(key)) return _commonsCache.get(key);
+  if (cache.has(key)) return cache.get(key);
 
   try {
     // Step 1: search Commons File namespace by title
@@ -170,7 +183,7 @@ export async function lookupCommonsImage(title) {
     });
     const searchData = await searchResp.json();
     const hits = searchData?.query?.search ?? [];
-    if (!hits.length) { _commonsCache.set(key, null); return null; }
+    if (!hits.length) { cache.set(key, null); _saveCommonsCache(); return null; }
 
     // Step 2: get thumbnail URL for the first result
     const fileName = encodeURIComponent(hits[0].title);
@@ -185,9 +198,11 @@ export async function lookupCommonsImage(title) {
     const thumbUrl = pages[0]?.imageinfo?.[0]?.thumburl ?? null;
 
     _commonsCache.set(key, thumbUrl);
+    _saveCommonsCache();
     return thumbUrl;
   } catch {
     _commonsCache.set(key, null);
+    _saveCommonsCache();
     return null;
   }
 }
