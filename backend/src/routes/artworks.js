@@ -100,15 +100,6 @@ router.get('/', async (req, res) => {
     ]);
     const artworks = mergeArtworks(wikidataArtworks, jocondeArtworks);
 
-    // Resolve missing images via Wikimedia Commons (parallel, cached in-process)
-    await Promise.all(
-      artworks.map(async a => {
-        if (!a.imageUrl) {
-          a.imageUrl = await lookupCommonsImage(a.title);
-        }
-      })
-    );
-
     console.log(`[artworks] ${wikidataArtworks.length} Wikidata + ${jocondeArtworks.length} Joconde (${artworks.length - wikidataArtworks.length} new) = ${artworks.length} total`);
     res.json({ theme, artworks });
   } catch (err) {

@@ -73,7 +73,8 @@
         "code": "M5007",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/00000091339"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/00000091339",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Psych%C3%A9._Po%C3%ABme_symphonique_pour_orchestre_et_ch%C5%93urs._C%C3%A9sar_Franck_1%C3%A8re_%28-2me%29_partie_-_bpt6k15078024_%2809_of_60%29.jpg/500px-Psych%C3%A9._Po%C3%ABme_symphonique_pour_orchestre_et_ch%C5%93urs._C%C3%A9sar_Franck_1%C3%A8re_%28-2me%29_partie_-_bpt6k15078024_%2809_of_60%29.jpg"
     },
     {
       "id": "joconde-000PE000117",
@@ -242,7 +243,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000DE015637"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000DE015637",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Catalogue_des_oeuvres_de_peinture%2C_aquarelles%2C_dessins_et_sculpture_expos%C3%A9s_dans_le_Mus%C3%A9e_de_Lisieux_%28IA_cataloguedesoeuv00muse%29.pdf/page1-500px-Catalogue_des_oeuvres_de_peinture%2C_aquarelles%2C_dessins_et_sculpture_expos%C3%A9s_dans_le_Mus%C3%A9e_de_Lisieux_%28IA_cataloguedesoeuv00muse%29.pdf.jpg"
     },
     {
       "id": "joconde-000DE015092",
@@ -353,7 +355,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000DE015867"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000DE015867",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Catalogue_de_miniatures_dessins_et_estampes_de_diverses_%C3%A9coles_anciennes_%26_modernes%2C_et_principalement_%C3%A9cole_fran%C3%A7aise_XVIIIme_si%C3%A8cle%2C_faisant_partie_du_cabinet_de_M.F.V_%28IA_cataloguedeminia00delb%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-000DE016338",
@@ -445,7 +448,8 @@
         "code": "M5060",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000PE018156"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000PE018156",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Histoire_de_la_peinture_franc%CA%B9aise_au_XIXme_siecle_%281801-1900%29_%28IA_histoiredelapein00font%29.pdf/page1-500px-Histoire_de_la_peinture_franc%CA%B9aise_au_XIXme_siecle_%281801-1900%29_%28IA_histoiredelapein00font%29.pdf.jpg"
     },
     {
       "id": "joconde-000PE018154",
@@ -651,7 +655,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005959"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005959",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu/page1-500px-Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu.jpg"
     },
     {
       "id": "joconde-000SC005961",
@@ -669,7 +674,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005961"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005961",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu/page1-500px-Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu.jpg"
     },
     {
       "id": "joconde-000SC005960",
@@ -687,7 +693,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005960"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005960",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu/page1-500px-Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu.jpg"
     },
     {
       "id": "joconde-000SC005971",
@@ -759,7 +766,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005962"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC005962",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu/page1-500px-Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu.jpg"
     },
     {
       "id": "joconde-000SC007501",
@@ -777,7 +785,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC007501"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC007501",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Art_and_criticism%3B_monographs_and_studies_%28IA_cu31924032719670%29.pdf/page1-500px-Art_and_criticism%3B_monographs_and_studies_%28IA_cu31924032719670%29.pdf.jpg"
     },
     {
       "id": "joconde-000SC008214",
@@ -795,7 +804,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008214"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008214",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tailhade_-_Quelques_fant%C3%B4mes_de_jadis_%281920%29.djvu/page1-500px-Tailhade_-_Quelques_fant%C3%B4mes_de_jadis_%281920%29.djvu.jpg"
     },
     {
       "id": "joconde-000SC008307",
@@ -849,7 +859,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008308"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008308",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Psych%C3%A9_transport%C3%A9e_par_la_Chim%C3%A8re.jpg/500px-Psych%C3%A9_transport%C3%A9e_par_la_Chim%C3%A8re.jpg"
     },
     {
       "id": "joconde-000SC008617",
@@ -867,7 +878,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008617"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008617",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu/page1-500px-Montesquieu_-_Le_Temple_de_Gnide%2C_1824.djvu.jpg"
     },
     {
       "id": "joconde-000SC008626",
@@ -885,7 +897,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008626"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008626",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Les_Lettres_et_les_arts_%28IA_leslettresetlesa01unse%29.pdf/page1-500px-Les_Lettres_et_les_arts_%28IA_leslettresetlesa01unse%29.pdf.jpg"
     },
     {
       "id": "joconde-000SC008816",
@@ -903,7 +916,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008816"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008816",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Psych%C3%A9_transport%C3%A9e_par_la_Chim%C3%A8re.jpg/500px-Psych%C3%A9_transport%C3%A9e_par_la_Chim%C3%A8re.jpg"
     },
     {
       "id": "joconde-000SC008790",
@@ -939,7 +953,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008730"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC008730",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Les_Lettres_et_les_arts_%28IA_leslettresetlesa01unse%29.pdf/page1-500px-Les_Lettres_et_les_arts_%28IA_leslettresetlesa01unse%29.pdf.jpg"
     },
     {
       "id": "joconde-000SC009171",
@@ -957,7 +972,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC009171"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC009171",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Les_Lettres_et_les_arts_%28IA_leslettresetlesa01unse%29.pdf/page1-500px-Les_Lettres_et_les_arts_%28IA_leslettresetlesa01unse%29.pdf.jpg"
     },
     {
       "id": "joconde-000SC009705",
@@ -975,7 +991,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC009705"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC009705",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Autour_de_la_statue_de_Jean_Houdon_%28IA_autourdelastatue00terr%29.pdf/page1-500px-Autour_de_la_statue_de_Jean_Houdon_%28IA_autourdelastatue00terr%29.pdf.jpg"
     },
     {
       "id": "joconde-000SC013058",
@@ -1029,7 +1046,8 @@
         "code": "M5060",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC013996"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC013996",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Le_M%C3%A9nestrel_-_1896_-_n%C2%B025.pdf/page1-500px-Le_M%C3%A9nestrel_-_1896_-_n%C2%B025.pdf.jpg"
     },
     {
       "id": "joconde-000SC031493",
@@ -1047,7 +1065,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC031493"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/000SC031493",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Le_Nu_au_salon_de_.._%28IA_gri_33125008144194%29.pdf/page1-500px-Le_Nu_au_salon_de_.._%28IA_gri_33125008144194%29.pdf.jpg"
     },
     {
       "id": "joconde-50510011553",
@@ -1101,7 +1120,8 @@
         "code": "M5041",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50410000984"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50410000984",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustave_Moreau-Amour_et_Psyche-Des._569.jpg/500px-Gustave_Moreau-Amour_et_Psyche-Des._569.jpg"
     },
     {
       "id": "joconde-M5037011015",
@@ -1137,7 +1157,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M5037011659"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M5037011659",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Psych%C3%A9_%28NYPL_b12149207-5107438%29_%28retouched%29.jpg/500px-Psych%C3%A9_%28NYPL_b12149207-5107438%29_%28retouched%29.jpg"
     },
     {
       "id": "joconde-M5037000195",
@@ -1173,7 +1194,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M5037011531"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M5037011531",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pajou_Psyche_Dujardin.jpeg/500px-Pajou_Psyche_Dujardin.jpeg"
     },
     {
       "id": "joconde-50350000952",
@@ -1191,7 +1213,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350000952"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350000952",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Giraud_-_%C3%89ros_et_Psych%C3%A9%2C_Lamertin.djvu/page1-500px-Giraud_-_%C3%89ros_et_Psych%C3%A9%2C_Lamertin.djvu.jpg"
     },
     {
       "id": "joconde-50350001102",
@@ -1245,7 +1268,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350001462"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350001462",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Auguste_Rodin%2C_statuaire_-_l%27oeuvre_et_ses_aventures%2C_Rodin_dessinateur%2C_caract%C3%A8res_et_projets%2C_commentaires_%28IA_augusterodinstat00riot%29.pdf/page1-500px-Auguste_Rodin%2C_statuaire_-_l%27oeuvre_et_ses_aventures%2C_Rodin_dessinateur%2C_caract%C3%A8res_et_projets%2C_commentaires_%28IA_augusterodinstat00riot%29.pdf.jpg"
     },
     {
       "id": "joconde-50350001437",
@@ -1263,7 +1287,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350001437"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350001437",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Le_Magasin_pittoresque_%28IA_lemagasinpittore2930unse%29.pdf/page1-500px-Le_Magasin_pittoresque_%28IA_lemagasinpittore2930unse%29.pdf.jpg"
     },
     {
       "id": "joconde-50350101451",
@@ -1281,7 +1306,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101451"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101451",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Archives_des_missions_scientifiques_et_litt%C3%A9raires_%28IA_archivesdesmissi25186fran%29.pdf/page1-500px-Archives_des_missions_scientifiques_et_litt%C3%A9raires_%28IA_archivesdesmissi25186fran%29.pdf.jpg"
     },
     {
       "id": "joconde-50350101452",
@@ -1335,7 +1361,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101251"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101251",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SANTI_Raffaello_-_Ganym%C3%A8de%2C_dans_le_Banquet_des_Dieux_aux_noces_d%27Amour_et_de_Psych%C3%A9%2C_INV_4019%2C_Recto.jpg/500px-SANTI_Raffaello_-_Ganym%C3%A8de%2C_dans_le_Banquet_des_Dieux_aux_noces_d%27Amour_et_de_Psych%C3%A9%2C_INV_4019%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350101443",
@@ -1371,7 +1398,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101429"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101429",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_L%27Amour_montrant_Psych%C3%A9_aux_trois_graces%2C_INV_4192%2C_Recto.jpg/500px-Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_L%27Amour_montrant_Psych%C3%A9_aux_trois_graces%2C_INV_4192%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350101432",
@@ -1389,7 +1417,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101432"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101432",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_V%C3%A9nus_d%C3%A9signant_Psych%C3%A9_%C3%A0_l%27Amour%2C_INV_4196%2C_Recto.jpg/500px-Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_V%C3%A9nus_d%C3%A9signant_Psych%C3%A9_%C3%A0_l%27Amour%2C_INV_4196%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350101439",
@@ -1461,7 +1490,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350112081"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350112081",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Catalogue_du_cabinet_des_tableaux%2C_de_la_succession_de_Mr._Adam_Gottlieb_Thiermann_%28IA_cthierabin00jmhe%29.pdf/page1-500px-Catalogue_du_cabinet_des_tableaux%2C_de_la_succession_de_Mr._Adam_Gottlieb_Thiermann_%28IA_cthierabin00jmhe%29.pdf.jpg"
     },
     {
       "id": "joconde-50350101441",
@@ -1497,7 +1527,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101435"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101435",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rapha%C3%ABl_-_d%27apr%C3%A8s_-_Mercure_et_Psych%C3%A9%2C_99-005668.jpg"
     },
     {
       "id": "joconde-50350101249",
@@ -1570,7 +1601,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100892"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100892",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Le_repas_de_Psych%C3%A9%2C_d%C3%A9tail_des_musiciennes_%28phbw09_0723%29.jpg/500px-Le_repas_de_Psych%C3%A9%2C_d%C3%A9tail_des_musiciennes_%28phbw09_0723%29.jpg"
     },
     {
       "id": "joconde-50350100889",
@@ -1588,7 +1620,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100889"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100889",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Catalogue_d%27une_collection_d%27estampes_anciennes_par_des_gravures_de_toutes_les_%C3%A9coles_%28IA_frick-31072001523879%29.pdf/page1-500px-Catalogue_d%27une_collection_d%27estampes_anciennes_par_des_gravures_de_toutes_les_%C3%A9coles_%28IA_frick-31072001523879%29.pdf.jpg"
     },
     {
       "id": "joconde-50350200407",
@@ -1606,7 +1639,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350200407"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350200407",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Getty_Research_Institute_%28IA_gri_33125008508745%29.pdf/page1-500px-Getty_Research_Institute_%28IA_gri_33125008508745%29.pdf.jpg"
     },
     {
       "id": "joconde-50350100908",
@@ -1660,7 +1694,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100690"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100690",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rome_-_les_muse%C3%A9es%2C_les_collections_particuli%C3%A8res%2C_les_palais_%28IA_romelesmuseeesle00lafe%29.pdf/page1-500px-Rome_-_les_muse%C3%A9es%2C_les_collections_particuli%C3%A8res%2C_les_palais_%28IA_romelesmuseeesle00lafe%29.pdf.jpg"
     },
     {
       "id": "joconde-50350100703",
@@ -1678,7 +1713,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100703"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100703",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/V%C3%A9nus_et_Adonis._Po%C3%ABme_sur_l%27origine%2C_la_cause%2C_les_symptomes_et_le_traitement_de_la_V%C3%A9nusalgie_ou_maladie_de_V%C3%A9nus_%28IA_b2202945x%29.pdf/page1-500px-V%C3%A9nus_et_Adonis._Po%C3%ABme_sur_l%27origine%2C_la_cause%2C_les_symptomes_et_le_traitement_de_la_V%C3%A9nusalgie_ou_maladie_de_V%C3%A9nus_%28IA_b2202945x%29.pdf.jpg"
     },
     {
       "id": "joconde-50350008538",
@@ -1696,7 +1732,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350008538"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350008538",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Explication_des_ouvrages_de_peinture_et_dessins%2C_sculpture%2C_architecture_et_gravure%2C_des_artistes_vivans_%28IA_explicationdesou1799soci%29.pdf/page1-500px-Explication_des_ouvrages_de_peinture_et_dessins%2C_sculpture%2C_architecture_et_gravure%2C_des_artistes_vivans_%28IA_explicationdesou1799soci%29.pdf.jpg"
     },
     {
       "id": "joconde-50350009226",
@@ -1750,7 +1787,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350005772"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350005772",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Catalogue_du_mus%C3%A9e_de_peinture%2C_sculpture_et_des_dessins_de_la_ville_de_Rennes.djvu/page1-500px-Catalogue_du_mus%C3%A9e_de_peinture%2C_sculpture_et_des_dessins_de_la_ville_de_Rennes.djvu.jpg"
     },
     {
       "id": "joconde-50350006378",
@@ -1768,7 +1806,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350006378"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350006378",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mercure_de_France_-_1894_-_Tome_12.djvu/page1-500px-Mercure_de_France_-_1894_-_Tome_12.djvu.jpg"
     },
     {
       "id": "joconde-50350005712",
@@ -1786,7 +1825,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350005712"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350005712",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dubois_Ambroise%2C_La_toilette_de_Psych%C3%A9%2C_Ch%C3%A2teu_Fontenainebleau.jpg/500px-Dubois_Ambroise%2C_La_toilette_de_Psych%C3%A9%2C_Ch%C3%A2teu_Fontenainebleau.jpg"
     },
     {
       "id": "joconde-50350006556",
@@ -1840,7 +1880,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350206438"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350206438",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Getty_Research_Institute_%28IA_manueldelamateur03lebl%29.pdf/page1-500px-Getty_Research_Institute_%28IA_manueldelamateur03lebl%29.pdf.jpg"
     },
     {
       "id": "joconde-50350012849",
@@ -1858,7 +1899,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350012849"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350012849",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Catalogue_des_tableaux%2C_pastels%2C_dessins%2C_miniatures%2C_sculptures%2C_objets_d%27art_de_la_galerie_de_M._Ars%C3%A8ne_Houssaye_%28IA_scudestabl00htel%29.pdf/page1-500px-Catalogue_des_tableaux%2C_pastels%2C_dessins%2C_miniatures%2C_sculptures%2C_objets_d%27art_de_la_galerie_de_M._Ars%C3%A8ne_Houssaye_%28IA_scudestabl00htel%29.pdf.jpg"
     },
     {
       "id": "joconde-50350013099",
@@ -1876,7 +1918,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350013099"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350013099",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Les_noces_de_Psych%C3%A9_et_de_l%27amour_-_Anonyme_-_MBA_Dijon_CA_37.jpg/500px-Les_noces_de_Psych%C3%A9_et_de_l%27amour_-_Anonyme_-_MBA_Dijon_CA_37.jpg"
     },
     {
       "id": "joconde-50350013552",
@@ -1894,7 +1937,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350013552"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350013552",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cat%C3%A9chisme_libertin%2C_1880.djvu/page1-500px-Cat%C3%A9chisme_libertin%2C_1880.djvu.jpg"
     },
     {
       "id": "joconde-50350013881",
@@ -1948,7 +1992,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350228396"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350228396",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/F._Boucher_.._%28IA_fboucher00mich%29.pdf/page1-500px-F._Boucher_.._%28IA_fboucher00mich%29.pdf.jpg"
     },
     {
       "id": "joconde-50350017276",
@@ -1966,7 +2011,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350017276"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350017276",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Catalogue_des_tableaux%2C_dessins%2C_gouaches%2C_aquarelles_de_l%27ecole_fran%C3%A7aise_du_XVIIIe_si%C3%A8cle_%28IA_cataloguedestabl00gale%29.pdf/page1-500px-Catalogue_des_tableaux%2C_dessins%2C_gouaches%2C_aquarelles_de_l%27ecole_fran%C3%A7aise_du_XVIIIe_si%C3%A8cle_%28IA_cataloguedestabl00gale%29.pdf.jpg"
     },
     {
       "id": "joconde-50350110819",
@@ -1984,7 +2030,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350110819"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350110819",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Catalogue_raisonn%C3%A9_des_tableaux_dits_de_cabinet_de_la_collection_Bayntun_%28IA_baaisonn00chri%29.pdf/page1-500px-Catalogue_raisonn%C3%A9_des_tableaux_dits_de_cabinet_de_la_collection_Bayntun_%28IA_baaisonn00chri%29.pdf.jpg"
     },
     {
       "id": "joconde-50350011705",
@@ -2002,7 +2049,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350011705"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350011705",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Une_cigale_au_Salon_de_1883_%28IA_unecigaleausalon00ducr%29.pdf/page1-500px-Une_cigale_au_Salon_de_1883_%28IA_unecigaleausalon00ducr%29.pdf.jpg"
     },
     {
       "id": "joconde-50350011706",
@@ -2038,7 +2086,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350011692"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350011692",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jacques-Louis_David_-_Cupid_and_Psyche_-_1962.37_-_Cleveland_Museum_of_Art.tiff/lossy-page1-500px-Jacques-Louis_David_-_Cupid_and_Psyche_-_1962.37_-_Cleveland_Museum_of_Art.tiff.jpg"
     },
     {
       "id": "joconde-50350100700",
@@ -2056,7 +2105,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100700"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100700",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Catalogue_des_oeuvres_de_peinture%2C_aquarelles%2C_dessins_et_sculpture_expos%C3%A9s_dans_le_Mus%C3%A9e_de_Lisieux_%28IA_cataloguedesoeuv00muse%29.pdf/page1-500px-Catalogue_des_oeuvres_de_peinture%2C_aquarelles%2C_dessins_et_sculpture_expos%C3%A9s_dans_le_Mus%C3%A9e_de_Lisieux_%28IA_cataloguedesoeuv00muse%29.pdf.jpg"
     },
     {
       "id": "joconde-50350011416",
@@ -2074,7 +2124,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350011416"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350011416",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Explication_des_ouvrages_de_peinture_et_dessins%2C_sculpture%2C_architecture_et_gravure%2C_des_artistes_vivans_%28IA_explicationdesou1814soci%29.pdf/page1-500px-Explication_des_ouvrages_de_peinture_et_dessins%2C_sculpture%2C_architecture_et_gravure%2C_des_artistes_vivans_%28IA_explicationdesou1814soci%29.pdf.jpg"
     },
     {
       "id": "joconde-50350012000",
@@ -2146,7 +2197,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350217891"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350217891",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Delacroix_-_Feuille_d%27%C3%A9tudes_d%27apr%C3%A8s_l%27antique%2C_dont_l%27Amour_et_Psych%C3%A9%2C_RF_10144%2C_Recto.jpg/500px-Delacroix_-_Feuille_d%27%C3%A9tudes_d%27apr%C3%A8s_l%27antique%2C_dont_l%27Amour_et_Psych%C3%A9%2C_RF_10144%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350212038",
@@ -2164,7 +2216,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350212038"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350212038",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Explication_des_tableaux%2C_dessins%2C_sculptures%2C_antiquit%C3%A9s_et_curiosit%C3%A9s_qui_y_sont_expos%C3%A9s_%28IA_explicationdesta00muse_1%29.pdf/page1-500px-Explication_des_tableaux%2C_dessins%2C_sculptures%2C_antiquit%C3%A9s_et_curiosit%C3%A9s_qui_y_sont_expos%C3%A9s_%28IA_explicationdesta00muse_1%29.pdf.jpg"
     },
     {
       "id": "joconde-50350211970",
@@ -2182,7 +2235,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350211970"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350211970",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Getty_Research_Institute_%28IA_essaisurlesbeaux00miel%29.pdf/page1-500px-Getty_Research_Institute_%28IA_essaisurlesbeaux00miel%29.pdf.jpg"
     },
     {
       "id": "joconde-50350212412",
@@ -2200,7 +2254,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350212412"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350212412",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Honor%C3%A9_Daumier_%28IA_honoredaumier00marc%29.pdf/page1-500px-Honor%C3%A9_Daumier_%28IA_honoredaumier00marc%29.pdf.jpg"
     },
     {
       "id": "joconde-50350016127",
@@ -2218,7 +2273,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350016127"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350016127",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Inventaire_g%C3%A9n%C3%A9ral_des_dessins_du_Mus%C3%A9e_du_Louvre_et_du_Mus%C3%A9e_de_Versailles%3B_%C3%A9cole_fran%C3%A7aise_%28IA_inventairegenera07muse%29.pdf/page1-500px-Inventaire_g%C3%A9n%C3%A9ral_des_dessins_du_Mus%C3%A9e_du_Louvre_et_du_Mus%C3%A9e_de_Versailles%3B_%C3%A9cole_fran%C3%A7aise_%28IA_inventairegenera07muse%29.pdf.jpg"
     },
     {
       "id": "joconde-50350213126",
@@ -2254,7 +2310,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350209278"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350209278",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwob_-_La_Lampe_de_Psych%C3%A9%2C_1906.djvu/page1-500px-Schwob_-_La_Lampe_de_Psych%C3%A9%2C_1906.djvu.jpg"
     },
     {
       "id": "joconde-50350230038",
@@ -2290,7 +2347,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350209283"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350209283",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/R%C3%A9pertoire_de_peintures_grecques_et_romaines_%28RPGR%29_-_avec_2720_gravures_%28IA_repertoiredepein00rein%29.pdf/page1-500px-R%C3%A9pertoire_de_peintures_grecques_et_romaines_%28RPGR%29_-_avec_2720_gravures_%28IA_repertoiredepein00rein%29.pdf.jpg"
     },
     {
       "id": "joconde-50350012001",
@@ -2308,7 +2366,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350012001"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350012001",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Apoth%C3%A9ose_de_Psych%C3%A9-_Psych%C3%A9_port%C3%A9e_au_ciel_par_Mercure._-_btv1b100519469.jpg/500px-Apoth%C3%A9ose_de_Psych%C3%A9-_Psych%C3%A9_port%C3%A9e_au_ciel_par_Mercure._-_btv1b100519469.jpg"
     },
     {
       "id": "joconde-50350104351",
@@ -2362,7 +2421,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101444"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101444",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_Psych%C3%A9_re%C3%A7ue_dans_l%27Olympe%2C_INV_4204%2C_Recto.jpg/500px-Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_Psych%C3%A9_re%C3%A7ue_dans_l%27Olympe%2C_INV_4204%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350006531",
@@ -2398,7 +2458,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350227977"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350227977",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_Mercure_et_Psych%C3%A9%2C_INV_4198%2C_Recto.jpg/500px-Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_Mercure_et_Psych%C3%A9%2C_INV_4198%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350227978",
@@ -2452,7 +2513,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350105481"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350105481",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Catalogue_des_estampes_des_trois_%C3%A9coles%2C_portraits%2C_catafalques%2C_pompes_fun%C3%A8bres%2C_plans%2C_cartes_g%C3%A9ographiques%2C_etc.%2C_qui_se_trouvent_%C3%A0_Paris%2C_au_Mus%C3%A9e_central_des_arts_%28IA_cataloguedesesta00muse%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50350140344",
@@ -2470,7 +2532,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350140344"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350140344",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionnaire_critique_et_documentaire_des_peintres%2C_sculpteurs%2C_dessinateurs_%26_graveurs_de_tous_les_temps_et_de_tous_les_pays_%28IA_dictionnairecrit02bene%29.pdf/page1-500px-Dictionnaire_critique_et_documentaire_des_peintres%2C_sculpteurs%2C_dessinateurs_%26_graveurs_de_tous_les_temps_et_de_tous_les_pays_%28IA_dictionnairecrit02bene%29.pdf.jpg"
     },
     {
       "id": "joconde-50350140359",
@@ -2488,7 +2551,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350140359"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350140359",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionnaire_critique_et_documentaire_des_peintres%2C_sculpteurs%2C_dessinateurs_%26_graveurs_de_tous_les_temps_et_de_tous_les_pays_%28IA_dictionnairecrit02bene%29.pdf/page1-500px-Dictionnaire_critique_et_documentaire_des_peintres%2C_sculpteurs%2C_dessinateurs_%26_graveurs_de_tous_les_temps_et_de_tous_les_pays_%28IA_dictionnairecrit02bene%29.pdf.jpg"
     },
     {
       "id": "joconde-50350216329",
@@ -2506,7 +2570,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350216329"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350216329",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Directoire%2C_consulat_et_empire._Moeurs_et_usages%2C_lettres%2C_sciences_et_arts._France%2C_1795-1815_%28IA_gri_33125008617975%29.pdf/page1-500px-Directoire%2C_consulat_et_empire._Moeurs_et_usages%2C_lettres%2C_sciences_et_arts._France%2C_1795-1815_%28IA_gri_33125008617975%29.pdf.jpg"
     },
     {
       "id": "joconde-50350038854",
@@ -2524,7 +2589,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350038854"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350038854",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/L%27art_de_la_parure%2C_ou_la_toilette_des_dames%2C_po%C3%A8me_en_trois_chants_%28IA_b22016697%29.pdf/page1-500px-L%27art_de_la_parure%2C_ou_la_toilette_des_dames%2C_po%C3%A8me_en_trois_chants_%28IA_b22016697%29.pdf.jpg"
     },
     {
       "id": "joconde-50350100895",
@@ -2560,7 +2626,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100893"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350100893",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Les_noces_de_Psych%C3%A9_et_de_l%27amour_-_Anonyme_-_MBA_Dijon_CA_37.jpg/500px-Les_noces_de_Psych%C3%A9_et_de_l%27amour_-_Anonyme_-_MBA_Dijon_CA_37.jpg"
     },
     {
       "id": "joconde-50350101428",
@@ -2578,7 +2645,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101428"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350101428",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_L%27Amour_montrant_Psych%C3%A9_aux_trois_graces%2C_INV_4192%2C_Recto.jpg/500px-Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_L%27Amour_montrant_Psych%C3%A9_aux_trois_graces%2C_INV_4192%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350231585",
@@ -2596,7 +2664,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350231585"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350231585",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catalogue_officiel_illustr%C3%A9_de_l%27Exposition_d%C3%A9cennale_des_beaux_arts_de_1889_%C3%A0_1900_%28IA_catalogueofficie00expo_0%29.pdf/page1-500px-Catalogue_officiel_illustr%C3%A9_de_l%27Exposition_d%C3%A9cennale_des_beaux_arts_de_1889_%C3%A0_1900_%28IA_catalogueofficie00expo_0%29.pdf.jpg"
     },
     {
       "id": "joconde-50350018058",
@@ -2614,7 +2683,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350018058"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350018058",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eros_et_Psych%C3%A9_-_Mus%C3%A9e_du_Louvre_AGER_MNC_519_%3B_Myr_639.jpg/500px-Eros_et_Psych%C3%A9_-_Mus%C3%A9e_du_Louvre_AGER_MNC_519_%3B_Myr_639.jpg"
     },
     {
       "id": "joconde-50350016004",
@@ -2668,7 +2738,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350018060"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350018060",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eros_et_Psych%C3%A9_-_Mus%C3%A9e_du_Louvre_AGER_MNC_519_%3B_Myr_639.jpg/500px-Eros_et_Psych%C3%A9_-_Mus%C3%A9e_du_Louvre_AGER_MNC_519_%3B_Myr_639.jpg"
     },
     {
       "id": "joconde-50350018077",
@@ -2704,7 +2775,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350027971"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350027971",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/La_Psych%C3%A9%2C_Volume_4%2C_1829.djvu/page1-500px-La_Psych%C3%A9%2C_Volume_4%2C_1829.djvu.jpg"
     },
     {
       "id": "joconde-50350105657",
@@ -2722,7 +2794,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350105657"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350105657",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dictionnaire_critique_et_documentaire_des_peintres%2C_sculpteurs%2C_dessinateurs_%26_graveurs_de_tous_les_temps_et_de_tous_les_pays_%28IA_dictionnairecrit02bene%29.pdf/page1-500px-Dictionnaire_critique_et_documentaire_des_peintres%2C_sculpteurs%2C_dessinateurs_%26_graveurs_de_tous_les_temps_et_de_tous_les_pays_%28IA_dictionnairecrit02bene%29.pdf.jpg"
     },
     {
       "id": "joconde-50350105652",
@@ -2758,7 +2831,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350112421"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350112421",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Catalogue_d%27une_collection_de_bons_tableaux_anciens_et_modernes_de_gravures_en_feuilles%2C_d%27objets_d%27art_et_de_quelques_livres%2C_provenant_de_successions_d%27amateurs_%28IA_feuillesdocol00terb%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50350034557",
@@ -2776,7 +2850,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350034557"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350034557",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Collection_des_livrets_des_anciennes_expositions_depuis_1673_jusqu%27en_1800_%28IA_collectiondesliv06acad_0%29.pdf/page1-500px-Collection_des_livrets_des_anciennes_expositions_depuis_1673_jusqu%27en_1800_%28IA_collectiondesliv06acad_0%29.pdf.jpg"
     },
     {
       "id": "joconde-50350112420",
@@ -2794,7 +2869,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350112420"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350112420",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Notice_des_peintures%2C_sculptures_et_dessins_de_l%27%C3%A9cole_moderne_expos%C3%A9s_dans_les_galeries_du_Mus%C3%A9e_national_du_Luxembourg_%28IA_noticedespeintur00muse_4%29.pdf/page1-500px-Notice_des_peintures%2C_sculptures_et_dessins_de_l%27%C3%A9cole_moderne_expos%C3%A9s_dans_les_galeries_du_Mus%C3%A9e_national_du_Luxembourg_%28IA_noticedespeintur00muse_4%29.pdf.jpg"
     },
     {
       "id": "joconde-50350502220",
@@ -2812,7 +2888,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350502220"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350502220",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Medical_Heritage_Library_%28IA_b29325997_0010%29.pdf/page1-500px-Medical_Heritage_Library_%28IA_b29325997_0010%29.pdf.jpg"
     },
     {
       "id": "joconde-50350034558",
@@ -2866,7 +2943,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350019855"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350019855",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Notice_des_dessins_originaux%2C_esquisses_peintes%2C_cartons%2C_gouches%2C_pastels%2C_%C3%A9maux%2C_miniatures_et_vases_%C3%A9trusques_.._%28IA_noticedesdessins02muse%29.pdf/page1-500px-Notice_des_dessins_originaux%2C_esquisses_peintes%2C_cartons%2C_gouches%2C_pastels%2C_%C3%A9maux%2C_miniatures_et_vases_%C3%A9trusques_.._%28IA_noticedesdessins02muse%29.pdf.jpg"
     },
     {
       "id": "joconde-50350019853",
@@ -2902,7 +2980,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350043845"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350043845",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Redon_-_V%C3%A9nus_et_Psych%C3%A9%2C_RF_40921%2C_Recto.jpg/500px-Redon_-_V%C3%A9nus_et_Psych%C3%A9%2C_RF_40921%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350112541",
@@ -3031,7 +3110,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350039194"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350039194",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Jeune_Belgique%2C_t5%2C_1886.djvu/page1-500px-La_Jeune_Belgique%2C_t5%2C_1886.djvu.jpg"
     },
     {
       "id": "joconde-50350208676",
@@ -3049,7 +3129,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350208676"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350208676",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Oeuvres_compl%C3%A8tes_d%27Eustache_Le_Sueur_et_choix_de_Jouvenet_%28IA_gri_33125008675429%29.pdf/page1-500px-Oeuvres_compl%C3%A8tes_d%27Eustache_Le_Sueur_et_choix_de_Jouvenet_%28IA_gri_33125008675429%29.pdf.jpg"
     },
     {
       "id": "joconde-50350116486",
@@ -3067,7 +3148,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350116486"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350116486",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_L%27Amour_montrant_Psych%C3%A9_aux_trois_graces%2C_INV_4192%2C_Recto.jpg/500px-Copie_d%27apr%C3%A8s_SANTI_Raffaello_-_L%27Amour_montrant_Psych%C3%A9_aux_trois_graces%2C_INV_4192%2C_Recto.jpg"
     },
     {
       "id": "joconde-50350132895",
@@ -3121,7 +3203,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350209258"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350209258",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Amiel_-_Jour_%C3%A0_jour%2C_1880.djvu/page1-500px-Amiel_-_Jour_%C3%A0_jour%2C_1880.djvu.jpg"
     },
     {
       "id": "joconde-50350208692",
@@ -3139,7 +3222,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350208692"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350208692",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catalogue_de_tableaux_et_de_dessins%2C_collection_consid%C3%A9rable_d%27estampes%2C_antiquit%C3%A9s_en_bronze_et_en_ivoire%2C_etc.%2C_apr%C3%A8s_le_d%C3%A9c%C3%A8s_de_Mme.%2A%2A%2A_%28IA_cataloguedetable2318regn%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50350208693",
@@ -3157,7 +3241,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350208693"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350208693",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catalogue_de_tableaux_et_de_dessins%2C_collection_consid%C3%A9rable_d%27estampes%2C_antiquit%C3%A9s_en_bronze_et_en_ivoire%2C_etc.%2C_apr%C3%A8s_le_d%C3%A9c%C3%A8s_de_Mme.%2A%2A%2A_%28IA_cataloguedetable2318regn%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50350209243",
@@ -3229,7 +3314,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M5037010740"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M5037010740",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L%27Amour_et_Psych%C3%A9_-_Fran%C3%A7ois_Nicolas_Delaistre_-_Mus%C3%A9e_du_Louvre_Sculptures_N_15515.jpg/500px-L%27Amour_et_Psych%C3%A9_-_Fran%C3%A7ois_Nicolas_Delaistre_-_Mus%C3%A9e_du_Louvre_Sculptures_N_15515.jpg"
     },
     {
       "id": "joconde-50350002318",
@@ -3247,7 +3333,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350002318"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350002318",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/R%C3%A9pertoire_de_peintures_grecques_et_romaines_%28RPGR%29_-_avec_2720_gravures_%28IA_repertoiredepein00rein%29.pdf/page1-500px-R%C3%A9pertoire_de_peintures_grecques_et_romaines_%28RPGR%29_-_avec_2720_gravures_%28IA_repertoiredepein00rein%29.pdf.jpg"
     },
     {
       "id": "joconde-50350002250",
@@ -3265,7 +3352,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350002250"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350002250",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Benvenuto_Cellini%2C_orf%C3%A9vre%2C_m%C3%A9dailleur%2C_sculpteur%3B_recherches_sur_sa_vie%2C_sur_son_%C5%93uvre_et_sur_les_pi%C3%A8ces_qui_lui_sont_attribu%C3%A9es_%28IA_1467783.0001.001.umich.edu%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50350010108",
@@ -3283,7 +3371,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350010108"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350010108",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Catalogue_raisonn%C3%A9_de_gouaches_et_de_dessins_du_cabinet_de_Mr._Bruun-Neergaard%2C_gentilhomme_de_la_chambre_du_roi_de_Danemarck_%28IA_catalogueraisonn00regn_2%29.pdf/page1-500px-Catalogue_raisonn%C3%A9_de_gouaches_et_de_dessins_du_cabinet_de_Mr._Bruun-Neergaard%2C_gentilhomme_de_la_chambre_du_roi_de_Danemarck_%28IA_catalogueraisonn00regn_2%29.pdf.jpg"
     },
     {
       "id": "joconde-50350010134",
@@ -3319,7 +3408,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350010149"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350010149",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Catalogue_des_tableaux_provenans_du_Cabinet_de_M._Hyacinthe_Collin_de_Vermont%2C_1761.djvu/page1-500px-Catalogue_des_tableaux_provenans_du_Cabinet_de_M._Hyacinthe_Collin_de_Vermont%2C_1761.djvu.jpg"
     },
     {
       "id": "joconde-50350010141",
@@ -3337,7 +3427,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350010141"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350010141",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chants_et_chansons_populaires_de_la_France_%28IA_chantsetchansons02dume%29.pdf/page1-500px-Chants_et_chansons_populaires_de_la_France_%28IA_chantsetchansons02dume%29.pdf.jpg"
     },
     {
       "id": "joconde-50350010156",
@@ -3373,7 +3464,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350110416"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350110416",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/L%E2%80%99Enfant_du_plaisir%2C_ou_les_d%C3%A9lices_de_la_jouissance%2C_1803.djvu/page1-500px-L%E2%80%99Enfant_du_plaisir%2C_ou_les_d%C3%A9lices_de_la_jouissance%2C_1803.djvu.jpg"
     },
     {
       "id": "joconde-50350121452",
@@ -3409,7 +3501,8 @@
         "code": "M5031",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350008404"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50350008404",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%C3%89cole_de_ALLEGRI_Antonio_-_Psych%C3%A9_d%C3%A9couvrant_l%27Amour_endormi%2C_INV_6022%2C_Recto.jpg/500px-%C3%89cole_de_ALLEGRI_Antonio_-_Psych%C3%A9_d%C3%A9couvrant_l%27Amour_endormi%2C_INV_6022%2C_Recto.jpg"
     },
     {
       "id": "joconde-50440001013",
@@ -3427,7 +3520,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001013"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001013",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dictionnaire_des_ventes_d%27art_faites_en_France_et_%C3%A0_l%27%C3%A9tranger_pendant_les_XVIIIme_%26_XIXme_si%C3%A8cles_..._%28IA_dictionnairedesv06mire_0%29.pdf/page1-500px-Dictionnaire_des_ventes_d%27art_faites_en_France_et_%C3%A0_l%27%C3%A9tranger_pendant_les_XVIIIme_%26_XIXme_si%C3%A8cles_..._%28IA_dictionnairedesv06mire_0%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001040",
@@ -3445,7 +3539,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001040"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001040",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Exposition_des_uvres_de_Prud%27hon_-_au_profit_de_sa_fille_%28IA_expositiondesuvr00marc%29.pdf/page1-500px-Exposition_des_uvres_de_Prud%27hon_-_au_profit_de_sa_fille_%28IA_expositiondesuvr00marc%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001012",
@@ -3463,7 +3558,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001012"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001012",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Le_peintre-graveur_illustr%C3%A9_%28XIXe_et_XXe_si%C3%A8cles%29_%28IA_gri_33125000096384%29.pdf/page1-500px-Le_peintre-graveur_illustr%C3%A9_%28XIXe_et_XXe_si%C3%A8cles%29_%28IA_gri_33125000096384%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001011",
@@ -3481,7 +3577,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001011"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001011",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Histoire_du_costume_antique_d%27apr%C3%A8s_des_%C3%A9tudes_sur_le_mod%C3%A8le_vivant_%28IA_histoireducostum00heuzuoft%29.pdf/page1-500px-Histoire_du_costume_antique_d%27apr%C3%A8s_des_%C3%A9tudes_sur_le_mod%C3%A8le_vivant_%28IA_histoireducostum00heuzuoft%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001024",
@@ -3499,7 +3596,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001024"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001024",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/La_collection_Warneck_%28IA_lacollectionwarn00samb%29.pdf/page1-500px-La_collection_Warneck_%28IA_lacollectionwarn00samb%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001041",
@@ -3517,7 +3615,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001041"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001041",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Journal_de_La_Haye_23-01-1845_%28IA_ddd_010257572_mpeg21%29.pdf/page1-500px-Journal_de_La_Haye_23-01-1845_%28IA_ddd_010257572_mpeg21%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001004",
@@ -3535,7 +3634,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001004"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001004",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Laprade_-_Psych%C3%A9%2C_1857.djvu/page1-500px-Laprade_-_Psych%C3%A9%2C_1857.djvu.jpg"
     },
     {
       "id": "joconde-50440001022",
@@ -3571,7 +3671,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001044"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001044",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rachilde_-_Le_Meneur_de_louves%2C_1905.djvu/page1-500px-Rachilde_-_Le_Meneur_de_louves%2C_1905.djvu.jpg"
     },
     {
       "id": "joconde-50440001000",
@@ -3589,7 +3690,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001000"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001000",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Catalogue_raisonn%C3%A9_de_gouaches_et_de_dessins_du_cabinet_de_Mr._Bruun-Neergaard%2C_gentilhomme_de_la_chambre_du_roi_de_Danemarck_%28IA_catalogueraisonn00regn_2%29.pdf/page1-500px-Catalogue_raisonn%C3%A9_de_gouaches_et_de_dessins_du_cabinet_de_Mr._Bruun-Neergaard%2C_gentilhomme_de_la_chambre_du_roi_de_Danemarck_%28IA_catalogueraisonn00regn_2%29.pdf.jpg"
     },
     {
       "id": "joconde-50440000991",
@@ -3607,7 +3709,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440000991"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440000991",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Journal_de_La_Haye_05-02-1844_%28IA_ddd_010257271_mpeg21%29.pdf/page1-500px-Journal_de_La_Haye_05-02-1844_%28IA_ddd_010257271_mpeg21%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001008",
@@ -3643,7 +3746,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440000948"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440000948",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Journal_de_La_Haye_14-11-1845_%28IA_ddd_010257824_mpeg21%29.pdf/page1-500px-Journal_de_La_Haye_14-11-1845_%28IA_ddd_010257824_mpeg21%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001046",
@@ -3661,7 +3765,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001046"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001046",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Colette_-_La_Femme_cach%C3%A9e%2C_1924.djvu/page1-500px-Colette_-_La_Femme_cach%C3%A9e%2C_1924.djvu.jpg"
     },
     {
       "id": "joconde-50440001015",
@@ -3679,7 +3784,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001015"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001015",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Capendu_-_Les_Colonnes_d%E2%80%99Hercule%2C_1860.pdf/page1-500px-Capendu_-_Les_Colonnes_d%E2%80%99Hercule%2C_1860.pdf.jpg"
     },
     {
       "id": "joconde-50440001034",
@@ -3733,7 +3839,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001016"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001016",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lettre_sur_le_Salon_de_1806_%28IA_gri_33125012246050%29.pdf/page1-500px-Lettre_sur_le_Salon_de_1806_%28IA_gri_33125012246050%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001010",
@@ -3751,7 +3858,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001010"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001010",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chasses_de_l%27Alg%C3%A9rie_et_notes_sur_les_Arabes_du_Sud_%28IA_chassesdelalgr00marguoft%29.pdf/page1-500px-Chasses_de_l%27Alg%C3%A9rie_et_notes_sur_les_Arabes_du_Sud_%28IA_chassesdelalgr00marguoft%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001014",
@@ -3823,7 +3931,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001019"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001019",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Notice_sur_les_objets_d%27art_de_la_Galerie_Campana_%C3%A0_Rome_-_acquis_pour_le_Mus%C3%A9e_imp%C3%A9rial_de_l%27Ermitage_%28IA_noticesurlesobje00gale%29.pdf/page1-500px-Notice_sur_les_objets_d%27art_de_la_Galerie_Campana_%C3%A0_Rome_-_acquis_pour_le_Mus%C3%A9e_imp%C3%A9rial_de_l%27Ermitage_%28IA_noticesurlesobje00gale%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001244",
@@ -3841,7 +3950,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001244"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001244",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwob_-_La_Lampe_de_Psych%C3%A9%2C_1906.djvu/page1-500px-Schwob_-_La_Lampe_de_Psych%C3%A9%2C_1906.djvu.jpg"
     },
     {
       "id": "joconde-50440001033",
@@ -3859,7 +3969,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001033"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001033",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Le_Maroc_contemporain_%28IA_gri_33125009663572%29.pdf/page1-500px-Le_Maroc_contemporain_%28IA_gri_33125009663572%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001031",
@@ -3913,7 +4024,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001036"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001036",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/L%27oeuvre_de_Rodin_%28IA_loeuvrederodin00alex%29.pdf/page1-500px-L%27oeuvre_de_Rodin_%28IA_loeuvrederodin00alex%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001025",
@@ -3931,7 +4043,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001025"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001025",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gazette_arch%C3%A9ologique%3B_recueil_de_monuments_pour_servir_%C3%A0_la_connaissance_%26_%C3%A0_l%27histoire_de_l%27art_dans_l%27antiquit%C3%A9_et_le_moyen-%C3%A2ge_%28IA_gazettearcheolog04unse%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50440001023",
@@ -3949,7 +4062,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001023"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001023",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Edmond_Marchal_-_Notice_sur_Julien_Dillens%2C_statuaire%2C_1912_%28IA_noticesurjuliend00marc%29.pdf/page1-500px-Edmond_Marchal_-_Notice_sur_Julien_Dillens%2C_statuaire%2C_1912_%28IA_noticesurjuliend00marc%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001207",
@@ -3967,7 +4081,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001207"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001207",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Les_derniers_Iroquois_%28microforme%29_%28IA_cihm_60178%29.pdf/page1-500px-Les_derniers_Iroquois_%28microforme%29_%28IA_cihm_60178%29.pdf.jpg"
     },
     {
       "id": "joconde-50440002728",
@@ -4003,7 +4118,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001146"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001146",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Le_biscuit_de_Sevres_au_XVIIIe_siecle_%28IA_gri_33125001072434%29.pdf/page1-500px-Le_biscuit_de_Sevres_au_XVIIIe_siecle_%28IA_gri_33125001072434%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001333",
@@ -4021,7 +4137,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001333"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001333",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/L%27oeuvre_de_Rodin_%28IA_loeuvrederodin00alex%29.pdf/page1-500px-L%27oeuvre_de_Rodin_%28IA_loeuvrederodin00alex%29.pdf.jpg"
     },
     {
       "id": "joconde-50440000997",
@@ -4039,7 +4156,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440000997"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440000997",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Roger-Mil%C3%A8s_-_Catalogue_de_tableaux_modernes_de_premier_ordre%2C_1897.djvu/page1-500px-Roger-Mil%C3%A8s_-_Catalogue_de_tableaux_modernes_de_premier_ordre%2C_1897.djvu.jpg"
     },
     {
       "id": "joconde-50440001001",
@@ -4057,7 +4175,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001001"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001001",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Louise_Lateau._Rapport_m%C3%A9dical_sur_la_stigmatis%C3%A9e_de_Bois_d%27Haine%2C_fait_%C3%A0_l%27Acad%C3%A9mie_royale_de_M%C3%A9decine_de_Belgique%2C_au_nom_d%27une_commission_%28IA_b21930892%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-50440001268",
@@ -4111,7 +4230,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001262"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001262",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bluther_-_Marie-Anna_la_Canadienne%2C_1913.djvu/page1-500px-Bluther_-_Marie-Anna_la_Canadienne%2C_1913.djvu.jpg"
     },
     {
       "id": "joconde-50440001197",
@@ -4129,7 +4249,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001197"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001197",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Notice_sur_les_objets_d%27art_de_la_Galerie_Campana_%C3%A0_Rome_-_acquis_pour_le_Mus%C3%A9e_imp%C3%A9rial_de_l%27Ermitage_%28IA_noticesurlesobje00gale%29.pdf/page1-500px-Notice_sur_les_objets_d%27art_de_la_Galerie_Campana_%C3%A0_Rome_-_acquis_pour_le_Mus%C3%A9e_imp%C3%A9rial_de_l%27Ermitage_%28IA_noticesurlesobje00gale%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001214",
@@ -4147,7 +4268,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001214"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001214",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/La_n%C3%A9cropole_de_Myrina_-_recherches_arch%C3%A9ologiques_ex%C3%A9cut%C3%A9es_au_nom_et_aux_frais_de_l%27%C3%89cole_fran%C3%A7aise_d%27Ath%C3%A8nes_%28IA_lanecropoledemyr01pott%29.pdf/page1-500px-La_n%C3%A9cropole_de_Myrina_-_recherches_arch%C3%A9ologiques_ex%C3%A9cut%C3%A9es_au_nom_et_aux_frais_de_l%27%C3%89cole_fran%C3%A7aise_d%27Ath%C3%A8nes_%28IA_lanecropoledemyr01pott%29.pdf.jpg"
     },
     {
       "id": "joconde-50440002392",
@@ -4201,7 +4323,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001053"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001053",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Amour_et_Psych%C3%A9_A_Rodin_Nancy_2918_B.jpg/500px-Amour_et_Psych%C3%A9_A_Rodin_Nancy_2918_B.jpg"
     },
     {
       "id": "joconde-50440001084",
@@ -4219,7 +4342,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001084"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440001084",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Auguste_Rodin%2C_statuaire_-_l%27oeuvre_et_ses_aventures%2C_Rodin_dessinateur%2C_caract%C3%A8res_et_projets%2C_commentaires_%28IA_augusterodinstat00riot%29.pdf/page1-500px-Auguste_Rodin%2C_statuaire_-_l%27oeuvre_et_ses_aventures%2C_Rodin_dessinateur%2C_caract%C3%A8res_et_projets%2C_commentaires_%28IA_augusterodinstat00riot%29.pdf.jpg"
     },
     {
       "id": "joconde-50440001242",
@@ -4403,7 +4527,8 @@
         "code": "M5044",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440004478"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/50440004478",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Amour_et_Psych%C3%A9_A_Rodin_Nancy_2918_B.jpg/500px-Amour_et_Psych%C3%A9_A_Rodin_Nancy_2918_B.jpg"
     },
     {
       "id": "joconde-M110380000412",
@@ -4439,7 +4564,8 @@
         "code": "M1104",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320229468"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320229468",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Psych%C3%A9%2C_G.32555.jpg/500px-Psych%C3%A9%2C_G.32555.jpg"
     },
     {
       "id": "joconde-M1104320391606",
@@ -4493,7 +4619,8 @@
         "code": "M1104",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320369175"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320369175",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Explication_des_ouvrages_de_peinture_et_de_sculpture_de_l%27%C3%A9cole_moderne_de_France_-_expos%C3%A9s_dans_le_Mus%C3%A9e_national_du_Luxembourg_destin%C3%A9_aux_artistes_vivants_%28IA_gri_33125009902624%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-M1104320369204",
@@ -4511,7 +4638,8 @@
         "code": "M1104",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320369204"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320369204",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Explication_des_ouvrages_de_peinture_et_de_sculpture_de_l%27%C3%A9cole_moderne_de_France_-_expos%C3%A9s_dans_le_Mus%C3%A9e_national_du_Luxembourg_destin%C3%A9_aux_artistes_vivants_%28IA_gri_33125009902624%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-M1104320086803",
@@ -4583,7 +4711,8 @@
         "code": "M1104",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320247899"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320247899",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amour_et_Psych%C3%A9%2C_EV0547.jpg/500px-Amour_et_Psych%C3%A9%2C_EV0547.jpg"
     },
     {
       "id": "joconde-M1111160013651",
@@ -4601,7 +4730,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160013651"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160013651",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Les_amours_de_Psich%C3%A9_et_%28...%29La_Fontaine_btv1b8623311v.jpg/500px-Les_amours_de_Psich%C3%A9_et_%28...%29La_Fontaine_btv1b8623311v.jpg"
     },
     {
       "id": "joconde-M1104320014435",
@@ -4619,7 +4749,8 @@
         "code": "M1104",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320014435"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320014435",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pendule_de_chemin%C3%A9e%2C_l%27Amour_et_Psych%C3%A9%2C_MB346.jpg/500px-Pendule_de_chemin%C3%A9e%2C_l%27Amour_et_Psych%C3%A9%2C_MB346.jpg"
     },
     {
       "id": "joconde-M1111160002550",
@@ -4691,7 +4822,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160008748"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160008748",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Giraud_-_%C3%89ros_et_Psych%C3%A9%2C_Lamertin.djvu/page1-500px-Giraud_-_%C3%89ros_et_Psych%C3%A9%2C_Lamertin.djvu.jpg"
     },
     {
       "id": "joconde-M1111160052150",
@@ -4709,7 +4841,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160052150"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160052150",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Almanach_des_muses_-_1803.djvu/page1-500px-Almanach_des_muses_-_1803.djvu.jpg"
     },
     {
       "id": "joconde-M1111160053319",
@@ -4727,7 +4860,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160053319"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160053319",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Comme_Psych%C3%A9_qui_rit_sur_le_tombeau_des_dieux%2C_PPG5449.jpg/500px-Comme_Psych%C3%A9_qui_rit_sur_le_tombeau_des_dieux%2C_PPG5449.jpg"
     },
     {
       "id": "joconde-M1108500090486",
@@ -4745,7 +4879,8 @@
         "code": "M1108",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1108500090486"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1108500090486",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Le_biscuit_de_Sevres_au_XVIIIe_siecle_%28IA_gri_33125001072673%29.pdf/page1-500px-Le_biscuit_de_Sevres_au_XVIIIe_siecle_%28IA_gri_33125001072673%29.pdf.jpg"
     },
     {
       "id": "joconde-00M11016176",
@@ -4799,7 +4934,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028765"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028765",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lamber_-_Le_si%C3%A8ge_de_Paris%2C_1873.pdf/page1-500px-Lamber_-_Le_si%C3%A8ge_de_Paris%2C_1873.pdf.jpg"
     },
     {
       "id": "joconde-M1111160024678",
@@ -4817,7 +4953,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024678"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024678",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Catalogue_raisonn%C3%A9_d%27une_collection_choisie_des_ouvrages_originaux_des_estampes%2C_des_desseins%2C_livres_rares%2C_et_objets_des_beaux_arts%2C_provenant_de_feu_Mr._Van_der_Null_%28IA_catalogueraisonn00arta%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-M1111160028766",
@@ -4835,7 +4972,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028766"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028766",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lamber_-_Le_si%C3%A8ge_de_Paris%2C_1873.pdf/page1-500px-Lamber_-_Le_si%C3%A8ge_de_Paris%2C_1873.pdf.jpg"
     },
     {
       "id": "joconde-M1111160024663",
@@ -4871,7 +5009,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024679"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024679",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Catalogue_raisonn%C3%A9_d%27une_collection_choisie_des_ouvrages_originaux_des_estampes%2C_des_desseins%2C_livres_rares%2C_et_objets_des_beaux_arts%2C_provenant_de_feu_Mr._Van_der_Null_%28IA_catalogueraisonn00arta%29.pdf/page1-500px-thumbnail.pdf.jpg"
     },
     {
       "id": "joconde-M1111160014704",
@@ -4889,7 +5028,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160014704"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160014704",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/La_psych%C3%A9_d%27apr%C3%A8s_Chaplin%2C_PPG1345.jpg/500px-La_psych%C3%A9_d%27apr%C3%A8s_Chaplin%2C_PPG1345.jpg"
     },
     {
       "id": "joconde-M1111160028831",
@@ -4925,7 +5065,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160014705"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160014705",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/La_psych%C3%A9_d%27apr%C3%A8s_Chaplin%2C_PPG1345.jpg/500px-La_psych%C3%A9_d%27apr%C3%A8s_Chaplin%2C_PPG1345.jpg"
     },
     {
       "id": "joconde-M1111160029045",
@@ -4979,7 +5120,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024684"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024684",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Revue_des_Deux_Mondes_-_1919_-_tome_54.djvu/page1-500px-Revue_des_Deux_Mondes_-_1919_-_tome_54.djvu.jpg"
     },
     {
       "id": "joconde-M1111160028829",
@@ -5033,7 +5175,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024665"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024665",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rapha%C3%ABl_et_la_Farn%C3%A9sine_%28IA_raphaletlafarnsi00bigo%29.pdf/page1-500px-Rapha%C3%ABl_et_la_Farn%C3%A9sine_%28IA_raphaletlafarnsi00bigo%29.pdf.jpg"
     },
     {
       "id": "joconde-M1111160024664",
@@ -5069,7 +5212,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024667"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024667",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Monumens_in%C3%A9dits_de_l%27antiquit%C3%A9_-_statues%2C_peintures_antiques%2C_pierres_grav%C3%A9es%2C_bas-reliefs_de_marbre_et_de_terre_cuite_%28IA_gri_monumensined01winc%29.pdf/page1-500px-Monumens_in%C3%A9dits_de_l%27antiquit%C3%A9_-_statues%2C_peintures_antiques%2C_pierres_grav%C3%A9es%2C_bas-reliefs_de_marbre_et_de_terre_cuite_%28IA_gri_monumensined01winc%29.pdf.jpg"
     },
     {
       "id": "joconde-M1111160024680",
@@ -5105,7 +5249,8 @@
         "code": "M1107",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1107460000178"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1107460000178",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ecole_fran%C3%A7aise_-_Vitrail_de_l%E2%80%99histoire_de_Psych%C3%A9_et_l%E2%80%99Amour_-_Google_Art_Project.jpg/500px-Ecole_fran%C3%A7aise_-_Vitrail_de_l%E2%80%99histoire_de_Psych%C3%A9_et_l%E2%80%99Amour_-_Google_Art_Project.jpg"
     },
     {
       "id": "joconde-M1111160028830",
@@ -5195,7 +5340,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024674"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160024674",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Notice_des_dessins_originaux%2C_esquisses_peintes%2C_cartons%2C_gouches%2C_pastels%2C_%C3%A9maux%2C_miniatures_et_vases_%C3%A9trusques_.._%28IA_noticedesdessins02muse%29.pdf/page1-500px-Notice_des_dessins_originaux%2C_esquisses_peintes%2C_cartons%2C_gouches%2C_pastels%2C_%C3%A9maux%2C_miniatures_et_vases_%C3%A9trusques_.._%28IA_noticedesdessins02muse%29.pdf.jpg"
     },
     {
       "id": "joconde-M1111160024690",
@@ -5321,7 +5467,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028770"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028770",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Journal_de_La_Haye_20-03-1847_%28IA_ddd_010258243_mpeg21%29.pdf/page1-500px-Journal_de_La_Haye_20-03-1847_%28IA_ddd_010258243_mpeg21%29.pdf.jpg"
     },
     {
       "id": "joconde-M1111160028825",
@@ -5339,7 +5486,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028825"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028825",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Proserpine_confiant_%C3%A0_Psych%C3%A9_la_bo%C3%AEte_remplie_de_beaut%C3%A9_-_estampe_-_%28Louis_Elle%29_%3B_Giul._Romano_%28d%27apr%C3%A8s_Jules_Romain%29_%28signature%29_-_btv1b532341153.jpg/500px-Proserpine_confiant_%C3%A0_Psych%C3%A9_la_bo%C3%AEte_remplie_de_beaut%C3%A9_-_estampe_-_%28Louis_Elle%29_%3B_Giul._Romano_%28d%27apr%C3%A8s_Jules_Romain%29_%28signature%29_-_btv1b532341153.jpg"
     },
     {
       "id": "joconde-M1111160028784",
@@ -5411,7 +5559,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028780"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160028780",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_de_La_Haye_12-10-1842_%28IA_ddd_010256860_mpeg21%29.pdf/page1-500px-Journal_de_La_Haye_12-10-1842_%28IA_ddd_010256860_mpeg21%29.pdf.jpg"
     },
     {
       "id": "joconde-M1111160024677",
@@ -5483,7 +5632,8 @@
         "code": "M1108",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1108500036506"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1108500036506",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Th%C3%A9ophile_Gautier_-_%C3%89maux_et_Cam%C3%A9es%2C_1920.pdf/page1-500px-Th%C3%A9ophile_Gautier_-_%C3%89maux_et_Cam%C3%A9es%2C_1920.pdf.jpg"
     },
     {
       "id": "joconde-M1111160028763",
@@ -5627,7 +5777,8 @@
         "code": "M1108",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1108500106589"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1108500106589",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Histoire_de_la_langue_et_de_la_litt%C3%A9rature_fran%C3%A7aise_des_origines_%C3%A0_1900_%28IA_histoiredelalang05peti_0%29.pdf/page1-500px-Histoire_de_la_langue_et_de_la_litt%C3%A9rature_fran%C3%A7aise_des_origines_%C3%A0_1900_%28IA_histoiredelalang05peti_0%29.pdf.jpg"
     },
     {
       "id": "joconde-M1111160036956",
@@ -5664,7 +5815,8 @@
         "code": "M1111",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160035063"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1111160035063",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dessins_de_P.-P._Prud%27hon_-_composant_la_collection_de_M._Ponce-Blanc_%28IA_dessinsprudhon00hote%29.pdf/page1-500px-Dessins_de_P.-P._Prud%27hon_-_composant_la_collection_de_M._Ponce-Blanc_%28IA_dessinsprudhon00hote%29.pdf.jpg"
     },
     {
       "id": "joconde-M1104320067313",
@@ -5775,7 +5927,8 @@
         "code": "M1104",
         "city": "Paris"
       },
-      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320027576"
+      "popUrl": "https://pop.culture.gouv.fr/notice/joconde/M1104320027576",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Saint-Marc_Girardin_-_Cours_de_litterature_dramatique%2C_tome_4.djvu/page1-500px-Saint-Marc_Girardin_-_Cours_de_litterature_dramatique%2C_tome_4.djvu.jpg"
     }
   ]
 }
