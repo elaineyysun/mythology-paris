@@ -12,7 +12,7 @@
  * Licence Etalab 2.0 (open data, free reuse with attribution).
  */
 
-import { readFileSync, existsSync } from 'fs';
+import { readFileSync, existsSync, writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -149,18 +149,17 @@ function cleanDate(raw) {
 
 // ─── Wikimedia Commons image lookup ──────────────────────────────────────────
 // Disk-backed cache: persists across server restarts.
-import { readFileSync as _readSync, writeFileSync as _writeSync } from 'fs';
 const _COMMONS_CACHE_FILE = join(__dirname, '../../cache/commons-images.json');
 let _commonsCache;
 function _loadCommonsCache() {
   if (_commonsCache) return _commonsCache;
-  try { _commonsCache = new Map(Object.entries(JSON.parse(_readSync(_COMMONS_CACHE_FILE, 'utf-8')))); }
+  try { _commonsCache = new Map(Object.entries(JSON.parse(readFileSync(_COMMONS_CACHE_FILE, 'utf-8')))); }
   catch { _commonsCache = new Map(); }
   return _commonsCache;
 }
 function _saveCommonsCache() {
   const obj = Object.fromEntries(_loadCommonsCache());
-  try { _writeSync(_COMMONS_CACHE_FILE, JSON.stringify(obj)); } catch { /* ignore */ }
+  try { writeFileSync(_COMMONS_CACHE_FILE, JSON.stringify(obj)); } catch { /* ignore */ }
 }
 
 /**
@@ -197,11 +196,11 @@ export async function lookupCommonsImage(title) {
     const pages = Object.values(infoData?.query?.pages ?? {});
     const thumbUrl = pages[0]?.imageinfo?.[0]?.thumburl ?? null;
 
-    _commonsCache.set(key, thumbUrl);
+    cache.set(key, thumbUrl);
     _saveCommonsCache();
     return thumbUrl;
   } catch {
-    _commonsCache.set(key, null);
+    cache.set(key, null);
     _saveCommonsCache();
     return null;
   }
